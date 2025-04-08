@@ -16,6 +16,8 @@ using NearestNeighbors
 
 const MAX_LENGTH_STATICARRAY = (10^6)
 
+    println("hello world")
+
 include("LazyOperators/LazyOperators.jl")
 using .LazyOperators
 import .LazyOperators:
